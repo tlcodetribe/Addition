@@ -29,9 +29,9 @@
 # print("Hello " + name)
 
 
-# birth_year = input("Type birth year ")
-# age = 2022 - int(birth_year)
-# print("Age", age)
+birth_year = input("Type birth year ")
+age = 2022 - int(birth_year)
+print("Age", age)
 
 num1 = input("First: ")  # float(input("First :"))
 num2 = input("Second: ")  # float(input("Second :"))
